@@ -22,6 +22,7 @@ WebDriver driver;
 		//driver=new InternetExplorerDriver();
 
 		driver.get("https://qa.totalwine.com/register");
+		System.out.println("opening url");
 		
 	}
 	
